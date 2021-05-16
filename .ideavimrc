@@ -1,6 +1,6 @@
 st nidth=1
-set encoding=utf-8
-set showmatch
+sencoding=utf-8
+set showm
 set sw=2
-set number relativenumber
-set laststatus=2
+set num relativenumber
+set tstatus=
